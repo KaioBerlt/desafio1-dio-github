@@ -1,0 +1,22 @@
+* Abrir GitBash diretamente na pasta
+
+* Colar Link no GitBash
+git clone + (colar link)
+
+* Entrar no repositorio
+cd + (nome do repositori/iniciar nome e apertar "Tab")
+
+* Verificar status
+git status
+
+* Enviar para controle de versão (Stage)
+git add . 
+git add -A
+
+*Commitar
+git commit -m "escrever comentario sobre o arquivo"
+
+* Enviar commits para nuvem
+git push origin main
+
+*   
